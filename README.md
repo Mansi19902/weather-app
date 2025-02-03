@@ -12,6 +12,7 @@ Currently, two official plugins are available:
 ```sh
 npm create vite@latest
 npm i react-router-dom
+```
 
 ## Getting Started
 
@@ -19,4 +20,5 @@ To start the development server, run:
 
 ```sh
 npm run dev
+```
 
