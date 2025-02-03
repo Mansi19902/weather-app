@@ -22,3 +22,7 @@ To start the development server, run:
 npm run dev
 ```
 
+## Screenshot
+
+![Weather App Screenshot](./path/to/your/screenshot.png)
+
